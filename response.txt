@@ -1,0 +1,7 @@
+You're looking for an introduction to data science in our course. I found it in Video 1, where we start with the basics of what is data science.
+
+The introduction begins at timestamp 69.6 seconds and ends at 75.0 seconds. In this video, you'll learn about the "roadmap" or "how to become a data scientist". 
+
+If you want to dive into it, here's the link to Video 1: https://example.com/video1
+
+Let me know if you have any other related questions!
